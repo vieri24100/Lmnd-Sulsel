@@ -6,7 +6,9 @@
   --light: #f9fafb;
   --white: #ffffff;
 }
-
+section {
+  scroll-margin-top: 50px; /* tinggi header */
+}
 /* RESET */
 * {
   margin: 0;
